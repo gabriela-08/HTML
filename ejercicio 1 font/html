@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-compatible" content="IE=edge"
+    <meta name="viewport" content="widht=divice-widh,initial-scale=1.0"
+    <title>EJERCICIO 1</title>
+</head>
+<body bgcolor="pink">
+<center>
+<h1><font color="orange" face="verdana"size="10">SQL,lenguaje de estructura de consultas</font> </h1>
+<p><b>SQL, es un lenguaje </b>para <u> gestionar bases de datos relacionales</u> se aplica en medianas y grandes empresas</p>
+<hr color="yellow">
+<p><i>lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías </i></p>
+<hr color="black">
+<h2 style="color: blue;font-size:20px ;font-family:jokerman;">HTML es un lenguaje de hipertexo</h2>
+<p><font color="green" face="ravie" size="10">HTML con este programa hacemos diseños de paginas web </font></p>
+</center>
+</body>
+</html>
